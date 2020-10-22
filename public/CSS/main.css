@@ -1,0 +1,21 @@
+/* aula 1*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    color: white;
+}
+
+body, button, input, textarea{
+    font-size: 18px;
+}
+
+#page-lading{
+    background: linear-gradient(329.54deg, #29B6D1 0%, #00C7C7 100%);
+    text-align: center;
+    min-height: 100vh;
+
+}
